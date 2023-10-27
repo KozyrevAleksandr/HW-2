@@ -1,0 +1,13 @@
+div.paragraph {font-size: 20px; font-family: Arial; color: rgb(2, 161, 108)}
+div.header {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(37, 2, 163);}
+
+div.name {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color:rgb(223, 83, 3)
+}
